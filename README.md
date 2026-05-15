@@ -1,5 +1,5 @@
 # sql-data-analysis-projects
-# SQL Data Analysis Projects 🔥
+
 
 ## About Me
 Data Analyst in training | BS Information Technology
