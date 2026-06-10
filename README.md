@@ -50,13 +50,36 @@ Learning data analytics to land a remote job
 - CASE WHEN for risk classification
 - RANK() Window Function
 - GROUP BY with aggregations
+### 3️⃣ Excel Sales Dashboard
+**Tools:** Excel, Pivot Tables, Power Query, Charts, Conditional Formatting
 
+**What I analyzed:**
+- Regional sales performance
+- Product order distribution
+- Monthly sales trends
+- Data quality checks
+
+**Key Findings:**
+- North region = highest sales (Rs 1,140,000)
+- Laptop = most popular product (40% orders)
+- February = peak sales month
+- 3 duplicate sales reps detected!
+
+**Skills Used:**
+- Data Cleaning — TRIM, PROPER, XLOOKUP
+- Pivot Tables & Charts
+- Power Query automation
+- Interactive Dashboard with Slicers
+- Conditional Formatting
 ---
 
 ## Skills Demonstrated
 ✅ Complex SQL Queries
-✅ CTEs (Common Table Expressions)
-✅ Window Functions
+✅ CTEs & Window Functions
 ✅ Multi-table JOINs
-✅ Business Logic Implementation
-✅ Data Analysis & Insights
+✅ Excel Advanced
+✅ Pivot Tables & Charts
+✅ Power Query
+✅ Interactive Dashboards
+✅ Data Cleaning & Validation
+✅ Conditional Formatting
