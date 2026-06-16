@@ -83,3 +83,14 @@ Learning data analytics to land a remote job
 ✅ Interactive Dashboards
 ✅ Data Cleaning & Validation
 ✅ Conditional Formatting
+### 4️⃣ Superstore Sales Dashboard
+
+Dataset: 9,994 rows real retail data
+Tools: Excel, Pivot Tables, Power Query, Dashboard
+
+Key Findings:
+- West = most profitable region
+- Technology = best category (17% margin)
+- Furniture = barely profitable!
+- November = peak sales month
+- Q4 = 35% of annual revenue
